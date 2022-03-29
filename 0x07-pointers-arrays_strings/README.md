@@ -1,1 +1,1 @@
-echo c commands
+c readme
